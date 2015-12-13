@@ -1,0 +1,3 @@
+# congresscountdown
+Time until the next chaos communicatin congress ... can also be used for Wacken or other festivals...
+This will be the basic for my RGB LED matrix for the congress :> inspirated by jolly!
