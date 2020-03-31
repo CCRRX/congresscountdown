@@ -29,7 +29,7 @@ int main()
         endzeit = ts.timestamp(jahr,12,26,0,0,0);
 
 		countdown = endzeit - (time(&zeit));
-		usleep(990);
+		usleep(1000);
         if(sec!=alt){
             alt=sec;
             system ("clear");
